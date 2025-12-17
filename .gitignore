@@ -23,5 +23,7 @@ Thumbs.db
 # Docker y entornos virtuales
 venv/ 
 env/
+# Directorios para backup de archivos y base de datos
+copias/
 # Ignorar el archivo abc.txt
 abc.txt
